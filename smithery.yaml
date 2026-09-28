@@ -1,0 +1,6 @@
+name: genpark-gae-generalized-advantage-estimation-skill
+version: 1.0.0
+description: Generalized Advantage Estimation (GAE-Lambda) exponentially weighted temporal difference calculator
+command: python
+args:
+  - mcp_server.py
