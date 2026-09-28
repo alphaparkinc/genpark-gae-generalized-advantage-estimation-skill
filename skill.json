@@ -1,0 +1,20 @@
+{
+  "name": "genpark-gae-generalized-advantage-estimation-skill",
+  "version": "1.0.0",
+  "description": "Generalized Advantage Estimation (GAE-Lambda) exponentially weighted temporal difference calculator",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "gae",
+    "generalized-advantage-estimation",
+    "temporal-difference",
+    "advantage-function",
+    "reinforcement-learning",
+    "python-standard-library",
+    "agent-skills",
+    "variance-reduction",
+    "actor-critic",
+    "rlhf"
+  ]
+}
